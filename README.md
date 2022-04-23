@@ -1,4 +1,4 @@
-  # KateClient.
+# KateClient.
 ## Dark theme mode demo  :       
 ![image](https://user-images.githubusercontent.com/47351250/161268871-2dea5bf0-0008-4575-a8c9-0e26c3e9278b.png)     
 
@@ -35,3 +35,6 @@ Why the ui is apple style, because Im an apple fan.   But to be a student,I dont
 
 ## Some classes was created before development. 
 This is no problem , I always create most of the classes during the programming design phase.
+
+# About public version
+I dont want someone who haven't code ability can modify KateClient easily.
