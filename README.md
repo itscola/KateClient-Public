@@ -36,5 +36,5 @@ Why the ui is apple style, because Im an apple fan.   But to be a student,I dont
 ## Some classes was created before development. 
 This is no problem , I always create most of the classes during the programming design phase.
 
-# About KateClient public version
+## About KateClient public version
 I dont want someone who haven't code ability can modify KateClient easily.
