@@ -1,0 +1,25 @@
+{
+  "required": true,
+  "package": "top.whitecola.kateclient.injection.mixins",
+  "refmap": "mixins.kateclient.refmap.json",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "MixinMinecraft",
+    "MixinGUIMainMenu",
+    "MixinGUI",
+    "MixinGuiOptions",
+    "MixinGuiIngameMenu",
+    "MixinGuiNewChat",
+    "MixinGuiPlayerTabOverlay",
+    "MixinGuiIngame",
+    "MixinScoreBoard",
+    "MixinNetHandlerPlayClient",
+    "MixinS3EPacketTeams",
+    "MixinRegionRenderCache",
+    "MixinBlockModelRenderer",
+    "MixinRender",
+    "MixinRenderPlayer",
+    "MixinRenderEntityItem"
+
+  ]
+}

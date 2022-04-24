@@ -1,0 +1,16 @@
+[
+{
+  "modid": "kateclient",
+  "name": "KateClient",
+  "description": "An open-source 1.8.9 Minecraft PVP client. still under devlopment.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://github.com/itscola/KateClient",
+  "updateUrl": "https://github.com/itscola/KateClient/releases",
+  "authorList": ["White_cola"],
+  "credits": "White_cola",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
