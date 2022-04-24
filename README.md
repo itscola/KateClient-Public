@@ -1,4 +1,4 @@
-# KateClient. - ( White_cola )
+# KateClient. - White_cola
 ## Dark theme mode demo  :       
 ![image](https://user-images.githubusercontent.com/47351250/161268871-2dea5bf0-0008-4575-a8c9-0e26c3e9278b.png)     
 
