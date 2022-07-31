@@ -15,15 +15,10 @@
 
 And, you can install any **mod** you want if mods are compatible.
 
-### To do:
-1. Loading GUI screen.   
-2. ClickGUI dock.
-3. WidgetManager relative position handler.
-
 Actually the UI design progress takes more time.
 
 ### The client is in the development stage.
-## When KateClient development is finished, I will release KateClient and provide the download URL.    
+## I decide to make final version private.
 
 ### The license is the [GNU Affero General Public License v3.0](LICENSE) and ,if you want to use the codes, please mark the author name (White_cola) in your projects .
 
