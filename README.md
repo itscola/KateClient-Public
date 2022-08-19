@@ -18,7 +18,6 @@ And, you can install any **mod** you want if mods are compatible.
 Actually the UI design progress takes more time.
 
 ### The client is in the development stage.
-## I decide to make final version private.
 
 ### The license is the [GNU Affero General Public License v3.0](LICENSE) and ,if you want to use the codes, please mark the author name (White_cola) in your projects .
 
